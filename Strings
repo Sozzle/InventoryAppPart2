@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">InventoryAppPart2</string>
+    <string name="action_insert_dummy_data">Action Insert dummy data</string>
+    <string name="action_delete_all_entries">Action Delete all entries</string>
+    <string name="action_save">Action save</string>
+    <string name="action_delete">Action delete</string>
+    <string name="category_overview">Category overview</string>
+    <string name="edit_insert_book_failed">Edit insert book failed</string>
+    <string name="edit_insert_book_successful">Edit insert book successful</string>
+    <string name="edit_update_book_successful">Edit update book successful</string>
+    <string name="edit_update_book_failed">Edit update book failed</string>
+    <string name="edit_activity_title_new_book">Edit activity title new book</string>
+    <string name="edit_activity_title_edit_book">Edit activity title edit book</string>
+    <string name="edit_delete_book_successful">Edit delete book successful</string>
+    <string name="edit_delete_book_failed">Edit delete book failed</string>
+    !-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <!-- Dialog message to ask the user to confirm deleting the current pet [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this book?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current book [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current book [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current pet [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+    <string name="empty_view_title_text">Empty view title text</string>
+
+    <string name="action_insert_book">Action insert book</string>
+
+    <string name="empty_view_no_books_here">Empty view no books here</string>
+    <string name="empty_view_go_to_add_book">Empty view go to add book</string>
+    <string name="sale">SALE</string>
+    <string name="decrement_button">decrement_button</string>
+    <string name="increment_button">increment_button</string>
+    <string name="out_of_stock_message">Out of stock message</string>
+    <string name="edit_quantity_field_cannot_be_empty">Edit quantity field cannot be empty</string>
+    <string name="edit_quantity_cannot_be_less_then_0">Edit quantity cannot be less than 0</string>
+    <string name="decrease_quantity">decrease_quantity</string>
+    <string name="increase_quantity">increase_quantity</string>
+    <string name="call_supplier">Call supplier</string>
+
+</resources>
